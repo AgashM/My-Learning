@@ -1,4 +1,4 @@
-package org.example.classandobjects;
+package classandobject;
 
 class Cat implements Cloneable{
     String catName = "fluffy";

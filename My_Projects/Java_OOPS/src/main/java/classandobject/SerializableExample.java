@@ -1,4 +1,4 @@
-package org.example.classandobjects;
+package classandobject;
 
 import java.io.*;
 

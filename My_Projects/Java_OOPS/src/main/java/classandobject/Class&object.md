@@ -1,4 +1,4 @@
-**Classes and Objects in Java**
+**CLASS AND OBJECT IN JAVA**
 
 * In Java class and objects are the foundation of OOPS
 * They help model real-world entities and organize code in a structured way
